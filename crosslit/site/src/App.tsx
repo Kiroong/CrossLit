@@ -8,7 +8,7 @@ function App() {
           <p className="text-lg font-semibold text-gray-500 mb-4">CHI 2026 Paper</p>
 
           <h1 className="mb-2 flex items-center gap-3">
-            <img src="/icon.png" alt="CrossLit Logo" className="w-12 h-12 sm:w-16 sm:h-16" />
+            <img src="/CrossLit/icon.png" alt="CrossLit Logo" className="w-12 h-12 sm:w-16 sm:h-16" />
             <span className="text-5xl sm:text-6xl font-bold text-blue-600">CrossLit</span>
           </h1>
           <h2 className="text-2xl sm:text-3xl font-light text-gray-900 mb-6 leading-tight">
@@ -18,7 +18,7 @@ function App() {
           {/* Teaser Image */}
           <div>
             <img
-              src="/teaser.png"
+              src="/CrossLit/teaser.png"
               alt="CrossLit System Interface"
               className="w-full max-w-full rounded-lg"
             />
@@ -81,7 +81,7 @@ function App() {
             {/* cgif-two */}
             <div className="space-y-3">
               <img
-                src="/cgif-two-optimized.gif"
+                src="/CrossLit/cgif-two-optimized.gif"
                 alt="Writing Notes & Grouping Papers"
                 className="w-full max-w-full rounded-lg border border-gray-200"
               />
@@ -94,7 +94,7 @@ function App() {
             {/* cgif-three */}
             <div className="space-y-3">
               <img
-                src="/cgif-three-optimized.gif"
+                src="/CrossLit/cgif-three-optimized.gif"
                 alt="Editing Texts"
                 className="w-full max-w-full rounded-lg border border-gray-200"
               />
@@ -107,7 +107,7 @@ function App() {
             {/* cgif-four */}
             <div className="space-y-3">
               <img
-                src="/cgif-four-optimized.gif"
+                src="/CrossLit/cgif-four-optimized.gif"
                 alt="Analyzing Bibliographic Data"
                 className="w-full max-w-full rounded-lg border border-gray-200"
               />
@@ -120,7 +120,7 @@ function App() {
             {/* cgif-five */}
             <div className="space-y-3">
               <img
-                src="/cgif-five-optimized.gif"
+                src="/CrossLit/cgif-five-optimized.gif"
                 alt="Searching New Papers"
                 className="w-full max-w-full rounded-lg border border-gray-200"
               />
@@ -141,7 +141,7 @@ function App() {
           <div className="flex flex-col gap-6 mb-6 sm:hidden">
             <div>
               <img
-                src="/crosslit-analysis.gif"
+                src="/CrossLit/crosslit-analysis.gif"
                 alt="CrossLit Analysis Process"
                 className="w-full max-w-full rounded-lg"
               />
@@ -153,7 +153,7 @@ function App() {
             </div>
             <div>
               <img
-                src="/sequential-patterns.png"
+                src="/CrossLit/sequential-patterns.png"
                 alt="Sequential Patterns"
                 className="w-full max-w-full rounded-lg"
               />
@@ -164,7 +164,7 @@ function App() {
           <div className="hidden sm:flex items-center gap-6 mb-6">
             <div className="flex-1">
               <img
-                src="/crosslit-analysis.gif"
+                src="/CrossLit/crosslit-analysis.gif"
                 alt="CrossLit Analysis Process"
                 className="w-full max-w-full rounded-lg"
               />
@@ -176,7 +176,7 @@ function App() {
             </div>
             <div className="flex-1">
               <img
-                src="/sequential-patterns.png"
+                src="/CrossLit/sequential-patterns.png"
                 alt="Sequential Patterns"
                 className="w-full max-w-full rounded-lg"
               />
@@ -194,7 +194,7 @@ function App() {
           <h2 className="text-xl font-bold tracking-tight text-blue-600 uppercase mb-6">Design Space</h2>
           <div className="mb-6">
             <img
-              src="/design-space.png"
+              src="/CrossLit/design-space.png"
               alt="Design Space for Literature Review Tools"
               className="w-full max-w-full rounded-lg"
             />
@@ -214,7 +214,7 @@ function App() {
             {/* Kiroong Choe */}
             <a href="https://kiroong.com/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/kiroong-choe.jpeg"
+                src="/CrossLit/kiroong-choe.jpeg"
                 alt="Kiroong Choe"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -233,7 +233,7 @@ function App() {
             {/* Eunhye Kim */}
             <a href="https://gracekim027.github.io/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/eunhye-kim.jpg"
+                src="/CrossLit/eunhye-kim.jpg"
                 alt="Eunhye Kim"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -252,7 +252,7 @@ function App() {
             {/* Min Hyeong Kim */}
             <a href="https://hcil.snu.ac.kr/people/min-hyeong-kim" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/min-hyeong-kim.webp"
+                src="/CrossLit/min-hyeong-kim.webp"
                 alt="Min Hyeong Kim"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -271,7 +271,7 @@ function App() {
             {/* Suyeon Hwang */}
             <a href="https://hcil.snu.ac.kr/people/suyeon-hwang" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/suyeon-hwang.webp"
+                src="/CrossLit/suyeon-hwang.webp"
                 alt="Suyeon Hwang"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -290,7 +290,7 @@ function App() {
             {/* Sangwon Park */}
             <a href="https://www.sangwonme.com/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/sangwon-park.jpeg"
+                src="/CrossLit/sangwon-park.jpeg"
                 alt="Sangwon Park"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -309,7 +309,7 @@ function App() {
             {/* Nam Wook Kim */}
             <a href="https://www.namwkim.org/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/nam-wook-kim.png"
+                src="/CrossLit/nam-wook-kim.png"
                 alt="Nam Wook Kim"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
@@ -328,7 +328,7 @@ function App() {
             {/* Jinwook Seo */}
             <a href="https://hcil.snu.ac.kr/people/jinwook-seo" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-3 group">
               <img
-                src="/jinwook-seo.webp"
+                src="/CrossLit/jinwook-seo.webp"
                 alt="Jinwook Seo"
                 className="w-30 h-30 rounded-full object-cover flex-shrink-0 group-hover:ring-4 group-hover:ring-blue-200 transition-all"
                 style={{ width: '120px', height: '120px' }}
