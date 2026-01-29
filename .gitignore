@@ -1,0 +1,16 @@
+# Dependencies
+site/node_modules
+
+# Build outputs (already in parent directory, don't ignore)
+# index.html
+# assets/
+
+# Development
+.DS_Store
+*.log
+.env
+.env.local
+
+# Raw materials and references
+__raw/
+__references/
