@@ -42,7 +42,7 @@ function App() {
           </p>
 
           <div className="flex flex-wrap gap-2 text-sm mt-6">
-            <a href="/paper.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
+            <a href="/CrossLit/paper.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
               Paper
             </a>
             <a href="#" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
