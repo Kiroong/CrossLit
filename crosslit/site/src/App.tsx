@@ -42,11 +42,11 @@ function App() {
           </p>
 
           <div className="flex flex-wrap gap-2 text-sm mt-6">
-            <a href="/CrossLit/paper.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
-              Paper
-            </a>
             <a href="https://dl.acm.org/doi/10.1145/3772318.3791418" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
               ACM DL
+            </a>
+            <a href="/CrossLit/paper.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 text-gray-700 rounded-full hover:bg-gray-100 transition-colors w-fit">
+              PDF
             </a>
           </div>
         </div>
